@@ -34,6 +34,6 @@ Interactive Visualization: View dividend trends over time with an interactive gr
 <h2>References</h2>
 <ul>
   <li>https://pypi.org/project/yfinance/</li>
-  <li>https://www.w3schools.com/python/matplotlib_intro.asp</li>
+  <li>https://www.tutorialspoint.com/bokeh/bokeh_plots_with_glyphs.htm</li>
   <li>https://en.wikipedia.org/wiki/List_of_S%26P_500_companies</li>
 </ul>
